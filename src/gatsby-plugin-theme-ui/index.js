@@ -1,9 +1,9 @@
 const theme = {
   colors: {
-    text: '#000',
+    text: '#111111',
     background: '#fff',
     primary: '#f1f1f1',
-    accent: '#fff',
+    accent: '#111111',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
     borderColor:"#ffffff",
@@ -15,9 +15,9 @@ const theme = {
     modes: {
       dark: {
         text: '#f5f5f5',
-        background: '#111',
+        background: '#1f1f1f',
         primary: '#252525',
-        accent: '#5C2941',
+        accent: '#2b9cb3',
         muted: 'rgba(255, 255, 255, 0.7)',
         buttonAccent: '#fff',
         cardBg: '#252525',
