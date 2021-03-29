@@ -73,7 +73,7 @@
       top: 100%;
       z-index: 1;
       width: 100%;
-			max-width: 320px;    
+			max-width: 320px;
 			border-radius: 0 0 0 12px;
       overflow: hidden;
     }
@@ -95,10 +95,10 @@
 .site-logo {
   font-weight: bold;
   a {
-    color: #fff;
+    color: #eb7242;
 		text-decoration: none;
 		&:hover {
-			color: #fff;
+			color: #e05b26;
 		}
   }
   @media (max-width: $breakpoint-lg) {
@@ -166,7 +166,7 @@
 		margin: 0 0 3px;
 		font-size: 20px;
 		font-weight: 600;
-		// a { 
+		// a {
 		// 	color: var(--post-link-color);
 		// }
 	}
@@ -255,7 +255,7 @@ article img {
 		margin-right: auto;
 	}
 }
-// Buttons 
+// Buttons
 .button {
 	--padding: 15px;
 	--margin: 20px;
@@ -441,4 +441,3 @@ article img {
 
 // Libraries
 @import "lib/prism-default"
-
