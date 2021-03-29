@@ -2,16 +2,16 @@ const theme = {
   colors: {
     text: '#000',
     background: '#fff',
-    primary: '#5C2941',
+    primary: '#f1f1f1',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
-    borderColor:"#540229",
+    borderColor:"#ffffff",
     labelText: "#777",
     inputBorder: "#aaa",
     inputBackground: "#fff",
-    socialIcons:"#a8959e",
-    socialIconsHover:"#5c2941",
+    socialIcons:"#1e7e92",
+    socialIconsHover:"#2b9cb3",
     modes: {
       dark: {
         text: '#f5f5f5',
